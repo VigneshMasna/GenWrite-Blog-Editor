@@ -1,7 +1,9 @@
-
 # GenWrite
 
 A full-stack blog application built with React, TypeScript, Express, and MongoDB. Features user authentication, blog creation with auto-save, and public blog browsing.
+
+## Demo Video
+https://github.com/user-attachments/assets/d777d23f-3ecb-4be4-b11b-25c166f450c9
 
 ## Features
 
