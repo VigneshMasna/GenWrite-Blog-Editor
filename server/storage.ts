@@ -4,7 +4,7 @@ import { type User, type InsertUser, type Blog, type InsertBlog } from "@shared/
 import { nanoid } from 'nanoid';
 
 // MongoDB connection
-const MONGODB_URI = "mongodb+srv://245122749016:Qwerty@cluster0.q4mnv.mongodb.net/GenWrite?retryWrites=true&w=majority&appName=Cluster0";
+const MONGODB_URI = "YOUR MONGODB CONNECTION STRING";
 
 // User Schema
 const userSchema = new mongoose.Schema<User>({
